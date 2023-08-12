@@ -24,6 +24,14 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> &nbsp
 </div><br/>
 
+### ✨ Habilidades ✨
+● Persistente.
+● Esforçada.
+● Comunicativa.
+● Criativa.
+● Trabalho em equipe eficiente.
+
+
 ### 📲 Curriculo 📲
 
 <span>
