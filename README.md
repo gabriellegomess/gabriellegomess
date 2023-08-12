@@ -25,11 +25,11 @@
 </div><br/>
 
 ### ✨ Habilidades ✨
-● Persistente.
-● Esforçada.
-● Comunicativa.
-● Criativa.
-● Trabalho em equipe eficiente.
+● Persistente. <br>
+● Esforçada. <br>
+● Comunicativa. <br>
+● Criativa. <br>
+● Trabalho em equipe eficiente. <br>
 
 
 ### 📲 Curriculo 📲
