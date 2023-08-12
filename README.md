@@ -5,4 +5,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellegomess&theme=midnight-purple">
 </div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellegomess&layout=donut-vertical&hide_progress=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellegomess&layout=donut-vertical&theme=midnight-purple&hide_progress=true">
