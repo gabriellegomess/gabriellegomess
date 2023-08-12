@@ -5,8 +5,6 @@
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellegomess&layout=donut-vertical&theme=midnight-purple&hide_progress=true">
 </div>
 
-<br>
-
 ### ❤️ Linguagens e Conhecimentos Gerais ❤️
 
 <div style="display: inline_block">
@@ -26,9 +24,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> &nbsp
 </div><br/>
 
-<br>
-
-### 📲 
+### 📲 Curriculo 📲
 
 <span>
     <!--Linkedin -->
